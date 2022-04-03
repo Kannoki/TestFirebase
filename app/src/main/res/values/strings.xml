@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestFirebase</string>
+    <string name="add_new">Add new</string>
+    <string name="name">Name</string>
+</resources>
